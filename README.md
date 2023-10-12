@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @JetReloader
-- 👀 I’m interested in game related automation
-- 🌱 I’m currently learning Python
+- I’m Jet
+- Interested in game related automation
+- Currently learning Python
